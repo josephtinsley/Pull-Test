@@ -21,6 +21,7 @@
             <div class="row">
                 <div class="col-lg-12 col-md-12 col-sm-12  col-xs-12">
                     <h1>Pull!</h1>
+                    <?PHP echo date("Y-m-d H:i:s",time());?>
                 </div>
             </div>
                
