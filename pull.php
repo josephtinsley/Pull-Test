@@ -28,7 +28,7 @@
                 <div class="col-lg-12 col-md-12 col-sm-12  col-xs-12">
                     <h1>Pull 2!</h1>
                     <?PHP echo 'Current time '. date("Y-m-d H:i:s",time());?>
-			<h4>Enter in some random text</h4>
+		    <h4>Enter in some random text!</h4>
                 </div>
             </div>  
         </div>    
